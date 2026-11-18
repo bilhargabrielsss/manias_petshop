@@ -12,4 +12,4 @@ Site de um petshop fictício, feito apenas com HTML, como Fase 1 do projeto da d
 ## Links
 
 - Site:(https://bilhargabrielsss.github.io/manias_petshop/)
-- Repositório: ____
+- Repositório:(https://bilhargabrielsss.github.io/manias_petshop/)
